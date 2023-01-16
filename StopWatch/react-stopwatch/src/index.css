@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Michroma");
+
+body {
+  font-family: 'Michroma', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  text-align: center;
+  background-color: rgba(0,0,0,1);
+  color: aliceblue;
+}
+
+button{
+  font-family: 'Michroma';
+  font-style: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  color:aliceblue;
+}
+
+.start{
+  background-color: green;
+}
+
+.stop{
+  background-color: red;
+}
+
+.resume{
+  background-color: green;
+}
+
+.reset{
+  background-color: darkgoldenrod;
+}
+
+span{
+  font-size: 3rem;
+  font-style: bold;
+}
+
