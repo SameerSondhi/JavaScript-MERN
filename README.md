@@ -1,1 +1,1 @@
-# JavaScript Assignments and Small Projects
+# Coding problems solved using JavaScript and MERN stack technologies
